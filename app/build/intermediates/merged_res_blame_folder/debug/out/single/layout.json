@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.sayursegar.app-mergeDebugResources-54:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.sayursegar.app-main-57:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.sayursegar.app-mergeDebugResources-54:\\layout\\fragment_first.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.sayursegar.app-main-57:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "com.example.sayursegar.app-mergeDebugResources-54:/layout/fragment_first.xml",
+        "source": "com.example.sayursegar.app-main-57:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.sayursegar.app-mergeDebugResources-54:\\layout\\fragment_second.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.sayursegar.app-main-57:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.sayursegar.app-mergeDebugResources-54:\\layout\\activity_info.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.sayursegar.app-main-57:\\layout\\activity_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.sayursegar.app-mergeDebugResources-54:\\layout\\item_fresh.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.sayursegar.app-main-57:\\layout\\item_fresh.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.sayursegar.app-mergeDebugResources-54:\\layout\\content_main.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.sayursegar.app-main-57:\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.sayursegar.app-mergeDebugResources-54:\\layout\\activity_home.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.sayursegar.app-main-57:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.sayursegar.app-mergeDebugResources-54:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.sayursegar.app-main-57:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.sayursegar.app-mergeDebugResources-54:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.sayursegar.app-main-57:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.sayursegar.app-mergeDebugResources-54:\\layout\\activity_register.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.sayursegar.app-main-57:\\layout\\activity_register.xml"
+    }
+]
